@@ -1,0 +1,50 @@
+{
+  "name": "simple-circular-progress",
+  "version": "1.0.0",
+  "description": "Simple circular progress bar to be use in ionic, Angular and React",
+  "author": {
+    "name": "Umar Memon",
+    "email": "umarmemon.developer@gmail.com"
+  },
+  "homepage": "https://github.com/umarmemon1910",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/umarmemon1910/simpleCircularProgressbar"
+  },
+  "bugs": {
+    "url": "https://github.com/umarmemon1910/simpleCircularProgressbar/issues",
+    "email": "umarmemon.developer@gmail.com"
+  },
+  "keywords": [
+    "circe",
+    "circular",
+    "simple",
+    "progressbar",
+    "ionic progressbar",
+    "angular progressbar",
+    "react progressbar"
+  ],
+  "main": "dist/index.cjs.js",
+  "module": "dist/custom-elements/index.js",
+  "es2015": "dist/esm/index.mjs",
+  "es2017": "dist/esm/index.mjs",
+  "types": "dist/custom-elements/index.d.ts",
+  "collection": "dist/collection/collection-manifest.json",
+  "collection:main": "dist/collection/index.js",
+  "unpkg": "dist/simple-circular-progress/simple-circular-progress.esm.js",
+  "files": [
+    "dist/",
+    "loader/"
+  ],
+  "scripts": {
+    "build": "stencil build --docs",
+    "start": "stencil build --dev --watch --serve",
+    "test": "stencil test --spec --e2e",
+    "test.watch": "stencil test --spec --e2e --watchAll",
+    "generate": "stencil generate"
+  },
+  "dependencies": {
+    "@stencil/core": "^2.0.1"
+  },
+  "license": "MIT"
+}
