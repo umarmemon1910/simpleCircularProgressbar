@@ -1,5 +1,7 @@
 # Simple Circular Progress Bar
 
+![alt text](https://raw.githubusercontent.com/umarmemon1910/simpleCircularProgressbar/master/Progressbar.PNG)
+
 Simple Circular Progress Bar is a web component to nicely show the progress in a circular manner.
 
 ## Installation
