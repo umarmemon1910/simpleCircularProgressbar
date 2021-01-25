@@ -63,6 +63,14 @@ label="<strong>40% <br/> New </strong>" // Any valid html to be display in cente
 label-font-size="1.3rem" // Any valid font size to apply label
 ```
 
+## ionic example
+
+checkout the [ionic example](https://github.com/umarmemon1910/ionic-simple-circular-progress-example)
+
+## angular example
+
+checkout the [angular example](https://github.com/umarmemon1910/angular-simple-circular-progress-example)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
